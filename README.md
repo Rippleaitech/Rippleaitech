@@ -2,7 +2,7 @@
 
 I work on products that turn everyday communication into useful actions—from business workflows in WhatsApp to connecting with people nearby.
 
-I’m looking to connect with potential co-founders and investors around a focused venture. The selected work below provides context for those conversations: what’s being built, the problems it addresses, and its current stage.
+Selected projects below show what I’m building, the problems they address and their current stage.
 
 ## BotMaker / WaPa
 
