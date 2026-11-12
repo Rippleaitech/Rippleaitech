@@ -26,12 +26,6 @@ A native Android and iPhone app for nearby connections, profiles, messaging, and
 
 BotMaker and 50Feet application source remains private; the linked repositories provide public overviews.
 
-## KLEM
-
-A Hebrew property-management business website with contact forms, project pages, and consent-controlled measurement—a supporting example of business delivery.
-
-[Website](https://klem.co.il/) · [Public repository](https://github.com/Rippleaitech/klem-website)
-
 ## Other work
 
 Stealth project — confidential.
